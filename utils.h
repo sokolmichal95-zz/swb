@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void print_usage();
 float sum(float, float);
 float sub(float, float);
 float mul(float, float);
